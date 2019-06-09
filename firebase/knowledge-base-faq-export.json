@@ -1,0 +1,19 @@
+{
+  "Erasmus" : {
+    "Ce fel de acte avem nevoie pentru a aplica?" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis provident officiis, reprehenderit numquam. Praesentium veritatis"
+  },
+  "Generale" : {
+    "Cand se afiseza notele finale?" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis provident officiis, reprehenderit numquam. Praesentium veritatis eos",
+    "Cate burse de merit sunt alocate pe semestru?" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis provident officiis, reprehenderit numquam. Praesentium veritatis",
+    "Cate credite sunt necesare pentru promovarea anului universitar?" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae quidem blanditiis delectus corporis, possimus officia sint sequi ex tenetur",
+    "Cum se distribuie bursele?" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi cupiditate et laudantium esse adipisci consequatur modi possimus accusantium"
+  },
+  "Licenta - Anul I" : {
+    "Cum iau legatura cu profesorul?" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit quidem delectus rerum eligendi mollitia, repudiandae quae beatae.",
+    "Este posibil transferul la alta specializare,facultate?" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis provident officiis, reprehenderit numquam. Praesentium veritatis",
+    "Unde imi gasesc orarul?" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi tempore, placeat quisquam rerum! Eligendi fugit dolorum tenetur modi"
+  },
+  "Romani de pretutindeni" : {
+    "Unde gasim Biroul de Imigrari?" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis provident officiis, reprehenderit numquam. Praesentium veritatis eos"
+  }
+}
