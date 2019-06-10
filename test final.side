@@ -1,0 +1,633 @@
+{
+  "id": "91a6f288-2c66-4d34-82d9-5b44addbbf73",
+  "version": "2.0",
+  "name": "test Twaaos",
+  "url": "https://localhost",
+  "tests": [{
+    "id": "741d87d7-b937-4986-b6ef-14360b26db1b",
+    "name": "test bun",
+    "commands": [{
+      "id": "143411a5-cb26-4e21-a3a8-3e0280c11de5",
+      "comment": "",
+      "command": "open",
+      "target": "/1/Knowledge-Base-FAQ-Project-TWAAOS-USV-master/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "be66b83b-1977-4488-959e-25206c17428a",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Cate credite sunt necesare pentru promovarea anului universitar?",
+      "targets": [
+        ["linkText=Cate credite sunt necesare pentru promovarea anului universitar?", "linkText"],
+        ["css=#generale > li:nth-child(2) > .cd-faq-trigger", "css:finder"],
+        ["xpath=//a[contains(text(),'Cate credite sunt necesare pentru promovarea anului universitar?')]", "xpath:link"],
+        ["xpath=//ul[@id='generale']/li[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#0')]", "xpath:href"],
+        ["xpath=//section/div/ul/li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Cate credite sunt necesare pentru promovarea anului universitar?')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "fc7ec661-8800-4543-b227-cb6f5670dae8",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Cum se distribuie bursele?",
+      "targets": [
+        ["linkText=Cum se distribuie bursele?", "linkText"],
+        ["css=#generale > li:nth-child(3) > .cd-faq-trigger", "css:finder"],
+        ["xpath=//a[contains(text(),'Cum se distribuie bursele?')]", "xpath:link"],
+        ["xpath=//ul[@id='generale']/li[3]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '#0')])[2]", "xpath:href"],
+        ["xpath=//section/div/ul/li[3]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Cum se distribuie bursele?')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7a8d879d-24d2-4301-bc15-968b0cf14214",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Licență - Anul I",
+      "targets": [
+        ["linkText=Licență - Anul I", "linkText"],
+        ["css=.cd-faq-categories > li:nth-child(2) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Licență - Anul I')]", "xpath:link"],
+        ["xpath=//section[@id='services']/section/ul/li[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#licenta_anul_1')]", "xpath:href"],
+        ["xpath=//section/ul/li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Licență - Anul I')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4f6b5ac7-38aa-44cd-b501-e45ed681b51b",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Licență- Anul IV",
+      "targets": [
+        ["linkText=Licență- Anul IV", "linkText"],
+        ["css=.cd-faq-categories > li:nth-child(5) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Licență- Anul IV')]", "xpath:link"],
+        ["xpath=//section[@id='services']/section/ul/li[5]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#licenta_anul_4')]", "xpath:href"],
+        ["xpath=//li[5]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Licență- Anul IV')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "95f03b38-062d-4e3a-a24e-d99742fd75df",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Români de pretutindeni",
+      "targets": [
+        ["linkText=Români de pretutindeni", "linkText"],
+        ["css=.cd-faq-categories > li:nth-child(7) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Români de pretutindeni')]", "xpath:link"],
+        ["xpath=//section[@id='services']/section/ul/li[7]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#romani_de_pretutindeni')]", "xpath:href"],
+        ["xpath=//li[7]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Români de pretutindeni')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c9e68fca-9c5d-47f2-ae78-559d032d320f",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Români de pretutindeni",
+      "targets": [
+        ["linkText=Români de pretutindeni", "linkText"],
+        ["css=li:nth-child(7) > .selected", "css:finder"],
+        ["xpath=//a[contains(text(),'Români de pretutindeni')]", "xpath:link"],
+        ["xpath=//section[@id='services']/section/ul/li[7]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#romani_de_pretutindeni')]", "xpath:href"],
+        ["xpath=//li[7]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Români de pretutindeni')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "5045ae70-7a0a-48ab-8bf3-421853508344",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Unde gasim Biroul de Imigrari?",
+      "targets": [
+        ["linkText=Unde gasim Biroul de Imigrari?", "linkText"],
+        ["css=#romani_de_pretutindeni .cd-faq-trigger", "css:finder"],
+        ["xpath=//a[contains(text(),'Unde gasim Biroul de Imigrari?')]", "xpath:link"],
+        ["xpath=//ul[@id='romani_de_pretutindeni']/li[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '#0')])[24]", "xpath:href"],
+        ["xpath=//ul[7]/li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Unde gasim Biroul de Imigrari?')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "99870d81-4417-4e9a-a471-dd5375570426",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Ce fel de acte avem nevoie pentru a aplica?",
+      "targets": [
+        ["linkText=Ce fel de acte avem nevoie pentru a aplica?", "linkText"],
+        ["css=#erasmus .cd-faq-trigger", "css:finder"],
+        ["xpath=//a[contains(text(),'Ce fel de acte avem nevoie pentru a aplica?')]", "xpath:link"],
+        ["xpath=//ul[@id='erasmus']/li[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '#0')])[25]", "xpath:href"],
+        ["xpath=//ul[8]/li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Ce fel de acte avem nevoie pentru a aplica?')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "5b13ff88-2d2b-4977-9f27-bb5ab4b37720",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Ce fel de acte avem nevoie pentru a aplica?",
+      "targets": [
+        ["linkText=Ce fel de acte avem nevoie pentru a aplica?", "linkText"],
+        ["css=#erasmus .cd-faq-trigger", "css:finder"],
+        ["xpath=//a[contains(text(),'Ce fel de acte avem nevoie pentru a aplica?')]", "xpath:link"],
+        ["xpath=//ul[@id='erasmus']/li[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '#0')])[25]", "xpath:href"],
+        ["xpath=//ul[8]/li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Ce fel de acte avem nevoie pentru a aplica?')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e234a694-639f-4034-b033-9353ebd5215e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.nav > li:nth-child(2) > a",
+      "targets": [
+        ["css=.nav > li:nth-child(2) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Despre')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'about-us.html')]", "xpath:href"],
+        ["xpath=//li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b39869e5-41c8-49aa-9104-982be08b91a1",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Acces e-mail",
+      "targets": [
+        ["linkText=Acces e-mail", "linkText"],
+        ["css=.accordion-group:nth-child(1) .accordion-toggle", "css:finder"],
+        ["xpath=//a[contains(text(),'Acces e-mail')]", "xpath:link"],
+        ["xpath=//div[@id='accordion2']/div/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#collapseOne')]", "xpath:href"],
+        ["xpath=//div/div/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Acces e-mail')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "bcfe7eaf-5a76-41bc-a075-e13a53a64851",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Cartea de telefon",
+      "targets": [
+        ["linkText=Cartea de telefon", "linkText"],
+        ["css=.accordion-group:nth-child(2) .accordion-toggle", "css:finder"],
+        ["xpath=//a[contains(text(),'Cartea de telefon')]", "xpath:link"],
+        ["xpath=//div[@id='accordion2']/div[2]/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#collapseTwo')]", "xpath:href"],
+        ["xpath=//div[2]/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Cartea de telefon')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "cc44792c-55eb-42d2-ada7-444a1c63b8b0",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Lista_telefoane_USV_pdf",
+      "targets": [
+        ["linkText=Lista_telefoane_USV_pdf", "linkText"],
+        ["css=.accordion-inner > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Lista_telefoane_USV_pdf')]", "xpath:link"],
+        ["xpath=//div[@id='collapseTwo']/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, ' http://www.usv.ro/fisiere_utilizator/file/Lista_telefoane_USV_2012.pdf')]", "xpath:href"],
+        ["xpath=//div[2]/div[2]/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Lista_telefoane_USV_pdf')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "dd20f8ca-c594-49b4-b8c5-e74342ecd923",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Biblioteca",
+      "targets": [
+        ["linkText=Biblioteca", "linkText"],
+        ["css=.accordion-group:nth-child(3) .accordion-toggle", "css:finder"],
+        ["xpath=//a[contains(text(),'Biblioteca')]", "xpath:link"],
+        ["xpath=//div[@id='accordion2']/div[3]/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#collapseThree')]", "xpath:href"],
+        ["xpath=//div[3]/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Biblioteca')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4f68b4de-2505-468d-9503-210c798169fc",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Biblioteca",
+      "targets": [
+        ["linkText=Biblioteca", "linkText"],
+        ["css=.accordion-group:nth-child(3) .accordion-toggle", "css:finder"],
+        ["xpath=//a[contains(text(),'Biblioteca')]", "xpath:link"],
+        ["xpath=//div[@id='accordion2']/div[3]/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#collapseThree')]", "xpath:href"],
+        ["xpath=//div[3]/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Biblioteca')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "31516ee3-6b64-43dd-be9f-3e54804a3fcb",
+      "comment": "",
+      "command": "click",
+      "target": "css=li:nth-child(2) > strong",
+      "targets": [
+        ["css=li:nth-child(2) > strong", "css:finder"],
+        ["xpath=//section[@id='bottom']/div/div/div/ul/li[2]/strong", "xpath:idRelative"],
+        ["xpath=//li[2]/strong", "xpath:position"],
+        ["xpath=//strong[contains(.,'Email: ')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "146176f4-2792-48d6-bc01-6900673a6817",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=administrator@yahoo.com",
+      "targets": [
+        ["linkText=administrator@yahoo.com", "linkText"],
+        ["css=li:nth-child(2) > a:nth-child(3)", "css:finder"],
+        ["xpath=//a[contains(text(),'administrator@yahoo.com')]", "xpath:link"],
+        ["xpath=//section[@id='bottom']/div/div/div/ul/li[2]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'mailto:anamiron_2015@yahoo.com')]", "xpath:href"],
+        ["xpath=//section[3]/div/div/div/ul/li[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'administrator@yahoo.com')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1bdf8ea6-f79a-455b-844f-17384a4ac490",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=1",
+      "targets": [
+        ["index=1"]
+      ],
+      "value": ""
+    }, {
+      "id": "38597d6e-25f4-40cf-9be9-023fe1ed8e3b",
+      "comment": "",
+      "command": "click",
+      "target": "css=#mapDiv .gm-style > div > div:nth-child(3)",
+      "targets": [
+        ["css=#mapDiv .gm-style > div > div:nth-child(3)", "css:finder"],
+        ["xpath=//div[@id='mapDiv']/div/div/div/div[3]", "xpath:idRelative"],
+        ["xpath=//body/div/div/div/div/div[3]", "xpath:position"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win3298",
+      "windowTimeout": 2000
+    }, {
+      "id": "958e49a7-585e-49c6-9f97-2aa0996a130a",
+      "comment": "",
+      "command": "storeWindowHandle",
+      "target": "root",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "003bb502-0179-4ab1-aa53-60dbda68c627",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win3298}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "cf2a43e4-9a7e-402b-ad75-24e1b7ef04b0",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${root}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "4671b5e0-b346-4320-9197-ca4c3815d1b2",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Politica de confidentialitate",
+      "targets": [
+        ["linkText=Politica de confidentialitate", "linkText"],
+        ["css=.dropdown-menu a", "css:finder"],
+        ["xpath=//a[contains(text(),'Politica de confidentialitate')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'privacy.html')]", "xpath:href"],
+        ["xpath=//li[3]/ul/li/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Politica de confidentialitate')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "17306bf1-f717-4eeb-ace3-f695b7104baa",
+      "comment": "",
+      "command": "click",
+      "target": "css=.nav > li:nth-child(4) > a",
+      "targets": [
+        ["css=.nav > li:nth-child(4) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Contact')]", "xpath:link"],
+        ["xpath=//a[contains(@href, 'contact-us.html')]", "xpath:href"],
+        ["xpath=//li[4]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "be74511e-9052-4937-bafb-42b2ea257a6b",
+      "comment": "",
+      "command": "click",
+      "target": "id=name",
+      "targets": [
+        ["id=name", "id"],
+        ["name=name", "name"],
+        ["css=#name", "css:finder"],
+        ["xpath=//input[@id='name']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "467e946f-8cc0-4d23-9f7d-0907316c7f2e",
+      "comment": "",
+      "command": "type",
+      "target": "id=name",
+      "targets": [
+        ["id=name", "id"],
+        ["name=name", "name"],
+        ["css=#name", "css:finder"],
+        ["xpath=//input[@id='name']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/div/div/input", "xpath:idRelative"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "ana"
+    }, {
+      "id": "3b9c56be-5dae-4094-8572-c2ac01c611e2",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-primary",
+      "targets": [
+        ["css=.btn-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'TRIMITE')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e8ff0cb5-5f3f-41e6-ab9e-ed393ec18725",
+      "comment": "",
+      "command": "click",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["name=email", "name"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/div/div/input[2]", "xpath:idRelative"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e68ad4d9-d07b-4a12-84c6-c9bd2279d248",
+      "comment": "",
+      "command": "type",
+      "target": "id=email",
+      "targets": [
+        ["id=email", "id"],
+        ["name=email", "name"],
+        ["css=#email", "css:finder"],
+        ["xpath=//input[@id='email']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/div/div/input[2]", "xpath:idRelative"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": "ana.miron5@student.usv.ro"
+    }, {
+      "id": "02d53c86-ce78-40ab-9c15-a02d218d0386",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-primary",
+      "targets": [
+        ["css=.btn-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'TRIMITE')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0a0e7edc-00b5-4f7d-8e5c-92e8484e85f3",
+      "comment": "",
+      "command": "click",
+      "target": "id=phone",
+      "targets": [
+        ["id=phone", "id"],
+        ["name=phone", "name"],
+        ["css=#phone", "css:finder"],
+        ["xpath=//input[@id='phone']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/div/div/input[3]", "xpath:idRelative"],
+        ["xpath=//input[3]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "95b1cb03-81e3-43f8-bebb-144443c15a8f",
+      "comment": "",
+      "command": "type",
+      "target": "id=phone",
+      "targets": [
+        ["id=phone", "id"],
+        ["name=phone", "name"],
+        ["css=#phone", "css:finder"],
+        ["xpath=//input[@id='phone']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/div/div/input[3]", "xpath:idRelative"],
+        ["xpath=//input[3]", "xpath:position"]
+      ],
+      "value": "0754338149"
+    }, {
+      "id": "834ad0f7-ee96-49b6-af56-19a0dd3821e8",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-primary",
+      "targets": [
+        ["css=.btn-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'TRIMITE')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "0dd5b131-7f61-4b03-b8db-294825a3812e",
+      "comment": "",
+      "command": "click",
+      "target": "id=subj",
+      "targets": [
+        ["id=subj", "id"],
+        ["name=subj", "name"],
+        ["css=#subj", "css:finder"],
+        ["xpath=//input[@id='subj']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a7944fe6-8bbe-4c76-94f6-c2edef8556d9",
+      "comment": "",
+      "command": "type",
+      "target": "id=subj",
+      "targets": [
+        ["id=subj", "id"],
+        ["name=subj", "name"],
+        ["css=#subj", "css:finder"],
+        ["xpath=//input[@id='subj']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/div/div[2]/input", "xpath:idRelative"],
+        ["xpath=//div[2]/input", "xpath:position"]
+      ],
+      "value": "buna"
+    }, {
+      "id": "e1122909-3d9f-49cb-be89-5c47aa0f3bc3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-primary",
+      "targets": [
+        ["css=.btn-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'TRIMITE')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "99466805-acd7-4798-a4f6-bd9df76323c5",
+      "comment": "",
+      "command": "click",
+      "target": "id=message",
+      "targets": [
+        ["id=message", "id"],
+        ["name=message", "name"],
+        ["css=#message", "css:finder"],
+        ["xpath=//textarea[@id='message']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/div/div[2]/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8c35d7bc-a201-4151-8b4d-fda2cfd03ab3",
+      "comment": "",
+      "command": "type",
+      "target": "id=message",
+      "targets": [
+        ["id=message", "id"],
+        ["name=message", "name"],
+        ["css=#message", "css:finder"],
+        ["xpath=//textarea[@id='message']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/div/div[2]/textarea", "xpath:idRelative"],
+        ["xpath=//textarea", "xpath:position"]
+      ],
+      "value": "buna ziua"
+    }, {
+      "id": "90e992d2-8030-4d65-97b6-6b6528eb4be4",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn-primary",
+      "targets": [
+        ["css=.btn-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//form[@id='main-contact-form']/button", "xpath:idRelative"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'TRIMITE')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "bef1adf8-8be1-4804-90b7-f23dde838b5f",
+      "comment": "",
+      "command": "click",
+      "target": "id=logo",
+      "targets": [
+        ["id=logo", "id"],
+        ["css=#logo", "css:finder"],
+        ["xpath=//a[@id='logo']", "xpath:attributes"],
+        ["xpath=//a[contains(@href, 'index.html')]", "xpath:href"],
+        ["xpath=//a[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6e1915b7-8075-4560-b348-7241c6f00ab8",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Licență - Anul III",
+      "targets": [
+        ["linkText=Licență - Anul III", "linkText"],
+        ["css=.cd-faq-categories > li:nth-child(4) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Licență - Anul III')]", "xpath:link"],
+        ["xpath=//section[@id='services']/section/ul/li[4]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#licenta_anul_3')]", "xpath:href"],
+        ["xpath=//section/ul/li[4]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Licență - Anul III')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "7ed43b27-96ce-4174-97df-95e9c82fdd45",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Masterat",
+      "targets": [
+        ["linkText=Masterat", "linkText"],
+        ["css=.cd-faq-categories > li:nth-child(6) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Masterat')]", "xpath:link"],
+        ["xpath=//section[@id='services']/section/ul/li[6]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#masterat')]", "xpath:href"],
+        ["xpath=//li[6]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Masterat')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "9e2ba177-6d69-4a11-9402-01af538c3dc0",
+      "comment": "",
+      "command": "click",
+      "target": "css=.active .span3:nth-child(1) p",
+      "targets": [
+        ["css=.active .span3:nth-child(1) p", "css:finder"],
+        ["xpath=//div[@id='myCarousel']/div/div/div/ul/li/a/p", "xpath:idRelative"],
+        ["xpath=//a/p", "xpath:position"],
+        ["xpath=//p[contains(.,'Facultatea de Inginerie Electrică şi Ştiinţa Calculatoarelor')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "fe694ef4-88ef-4ae6-bfd0-cc5c11297683",
+      "comment": "",
+      "command": "click",
+      "target": "css=.active > a",
+      "targets": [
+        ["css=.active > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Acasa')]", "xpath:link"],
+        ["xpath=(//a[contains(@href, 'index.html')])[2]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "31556f5a-3370-45b7-ae42-08b84d4d4844",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win3298}",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "bd1acf12-304c-4e0b-b8dc-c9d3d7a7d84d",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "e4dcd650-97e3-472a-904f-522b620fb42f",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["741d87d7-b937-4986-b6ef-14360b26db1b"]
+  }],
+  "urls": ["https://localhost/"],
+  "plugins": []
+}
